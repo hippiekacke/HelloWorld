@@ -10,7 +10,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		
 		
-		if (testwert < 8) {
+		if (testwert < 9) {
 			System.out.println(true);
 		}
 		else {
